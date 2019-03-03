@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootleggers ROM
-email: bootleggersunstable@gmail.com
+title: Cerberus OS
+
 description: >- # this means to ignore newlines until "baseurl:"
-  A AOSP Custom ROM with the goal of making you feel like 家.
+  A Simple Yet Powerful ROM.
   Including various features from other projects and some interesting
   system apps.
 baseurl: "" # the subpath of your site, e.g. /blog
